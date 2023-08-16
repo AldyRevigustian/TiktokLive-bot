@@ -1,0 +1,24 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18.0.6",
+    "date-fns-tz": "^2.0.0",
+    "eris": "^0.17.2",
+    "fs": "^0.0.1-security",
+    "luxon": "^3.3.0",
+    "mongodb": "^5.6.0",
+    "node-cron": "^3.0.2",
+    "node-fetch": "^3.2.6",
+    "pluris": "^0.3.7",
+    "tiktok-live-connector": "^1.0.3"
+  }
+}
