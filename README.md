@@ -1,2 +1,2 @@
 # TiktokBot-discord
-discord bot for tiktok live notification
+Discord bot for tiktok live notification
